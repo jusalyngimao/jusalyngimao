@@ -1,98 +1,141 @@
 <div align="center">
 
-# 💙 Jusalyn Gimao
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E40AF&height=200&section=header&text=Jusalyn%20Gimao&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-### Aspiring IT Professional | Front-End Developer | Digital Experience Creator
-
-*Transforming ideas into interactive, user-friendly interfaces through clean and responsive design*
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Transforming+Ideas+into+Reality;Creating+Beautiful+Web+Experiences;Clean+Design+%2B+Powerful+Functionality;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
 </div>
 
-## 🔷 About Me
+---
 
-<div align="justify">
+## ▸ About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding gif"/>
 
 Hi! I'm **Jusalyn Gimao** — passionate about crafting exceptional web experiences and building digital solutions that make a difference.
 
-I specialize in transforming concepts into interactive, user-friendly interfaces through clean, responsive design principles. My approach combines technical precision with aesthetic sensibility to create web applications that are both functional and delightful to use.
+I specialize in **transforming concepts into interactive, user-friendly interfaces** through clean, responsive design principles. My approach combines technical precision with aesthetic sensibility to create web applications that are both functional and delightful to use.
 
-I'm constantly exploring emerging technologies that bridge the gap between beautiful design and powerful functionality — with a particular focus on developing educational platforms that empower students and strengthen communities.
+▪ IT Student passionate about web development  
+▪ Front-End Developer focused on user experience  
+▪ Lifelong Learner exploring emerging technologies  
+▪ Mission: Build educational platforms that empower students  
+▪ Philosophy: *The best interfaces are invisible*
 
-**Design Philosophy:** I believe the best interfaces are invisible — clean, intuitive, and effortlessly elegant.
-
-</div>
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-## 🔷 Technical Arsenal
+## ▸ Technical Arsenal
 
-*A curated collection of technologies I leverage to build exceptional digital experiences*
+*Technologies I leverage to build exceptional digital experiences*
 
 ### Core Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js" height="40" alt="HTML CSS JS"/>
 
 ### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=vue,bootstrap,react,tailwind" height="40" alt="Vue Bootstrap React Tailwind"/>
 
 ### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
 
-### Additional Expertise
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Programming"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>
 
----
+### Additional Skills
 
-## 🔷 Currently Exploring
+<img src="https://skillicons.dev/icons?i=c,python" height="40" alt="C Python"/>
+<img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="40" alt="Cisco"/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+<br/>
 
-<em>Committed to continuous learning and staying current with emerging technologies</em>
+### Currently Exploring
 
----
+```javascript
+const currentlyLearning = ['React', 'Tailwind CSS', 'Python'];
+const nextGoals = ['TypeScript', 'Node.js', 'Full-Stack Development'];
+```
 
 </div>
 
-## 🔷 Featured Projects
+---
 
-<div align="justify">
+## ▸ Featured Projects
 
-### ▪️ LearnSphere
-**Educational Platform for Self-Paced Learning**  
-A comprehensive student portal delivering structured video tutorials and curated course materials. Features an intuitive interface designed to enhance the learning journey through organized content delivery and progress tracking.
+<div align="center">
 
-`Tech Stack:` Vue.js • PostgreSQL • Bootstrap
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ▪️ IntelliGrade
-**AI-Powered Assessment Automation**  
-An intelligent grading system that streamlines evaluation processes through automated checking and generates insightful performance analytics. Reduces instructor workload while providing students with instant, detailed feedback.
+### ▹ LearnSphere
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%"/>
 
-`Tech Stack:` JavaScript • AI Integration • Database Management
+**Educational Platform for Self-Paced Learning**
 
-### ▪️ Personal Portfolio Website
-**Digital Showcase & Professional Hub**  
-A fully responsive portfolio featuring dynamic project displays, integrated contact functionality, and certificate galleries. Built with performance optimization and accessibility in mind.
+A comprehensive student portal with:
+▪ Structured video tutorials  
+▪ Curated course materials  
+▪ Progress tracking system  
+▪ Intuitive interface design
 
-`Tech Stack:` HTML5 • CSS3 • JavaScript • Responsive Design
+**Tech:** `Vue.js` `PostgreSQL` `Bootstrap`
+
+</td>
+<td width="50%" valign="top">
+
+### ▹ IntelliGrade
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%"/>
+
+**AI-Powered Assessment Automation**
+
+Intelligent grading system featuring:
+▪ Automated checking  
+▪ Performance analytics  
+▪ Instant feedback  
+▪ Reduced instructor workload
+
+**Tech:** `JavaScript` `AI Integration`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ▹ Personal Portfolio
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%"/>
+
+**Digital Showcase & Professional Hub**
+
+Features include:
+▪ Dynamic project displays  
+▪ Integrated contact form  
+▪ Certificate galleries  
+▪ Fully responsive design
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### ▹ Coming Soon
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
+
+**More Exciting Projects**
+
+Stay tuned for:
+▪ Full-stack applications  
+▪ Interactive experiences  
+▪ Mobile-first designs  
+▪ Innovative solutions
+
+**Always building something new**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -100,39 +143,60 @@ A fully responsive portfolio featuring dynamic project displays, integrated cont
 
 <div align="center">
 
-## 🔷 GitHub Analytics
+## ▸ GitHub Analytics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jusalyngimao&show_icons=true&theme=blue_navy&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jusalyngimao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=jusalyngimao&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=jusalyngimao&theme=blueberry&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusalyngimao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jusalyngimao&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusalyngimao&layout=compact&theme=blue_navy&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-</p>
-
----
+<img src="https://github-profile-trophy.vercel.app/?username=jusalyngimao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
-## 🔷 Design Principles
+---
 
-<div align="justify">
+## ▸ Design Principles
 
-**My Approach to Web Development:**
+<div align="center">
 
-**▪️ Minimalism First** — Remove everything unnecessary until only the essential remains
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  ▪ Minimalism First — Remove everything unnecessary             │
+│  ▪ Color Harmony — Sophisticated blue palettes for clarity      │
+│  ▪ Responsive by Default — Mobile-first design approach         │
+│  ▪ Intuitive Navigation — Users should never be confused        │
+│  ▪ Performance Matters — Fast load times are non-negotiable     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-**▪️ Color Harmony** — Sophisticated blue and white palettes that promote clarity and trust
-
-**▪️ Responsive by Default** — Mobile-first design that scales beautifully across all devices
-
-**▪️ Intuitive Navigation** — Users should never wonder where to go next
-
-**▪️ Performance Matters** — Fast load times and smooth interactions are non-negotiable
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+<br/><strong>Simple</strong>
+<br/><em>Clean & minimal</em>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<br/><strong>Responsive</strong>
+<br/><em>All devices</em>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<br/><strong>User-Friendly</strong>
+<br/><em>Easy navigation</em>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+<br/><strong>Blue Theme</strong>
+<br/><em>Professional</em>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -140,34 +204,54 @@ A fully responsive portfolio featuring dynamic project displays, integrated cont
 
 <div align="center">
 
-## 🔷 Let's Connect
+## ▸ Let's Connect
 
-I'm always excited to collaborate on meaningful projects, discuss web development, or explore new opportunities!
+*I'm always excited to collaborate on meaningful projects and explore new opportunities*
 
-<p>
-  <a href="mailto:jusalyng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/jusalyngimao">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jusalyn-gimao-732429327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/jusalyn.gimao">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://wa.me/639505538053">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
+<br/>
+
+<a href="mailto:jusalyng@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/jusalyngimao">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/jusalyn-gimao-732429327/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/jusalyn.gimao">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://wa.me/639505538053">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=jusalyngimao&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 
 ---
 
-### ⭐ *"Keep learning, keep building, and create experiences that matter."*
+<div align="center">
 
-**Open to Collaboration • Available for Freelance Projects • Seeking Internship Opportunities**
+### *"Keep learning, keep building, and create experiences that matter."*
 
----
+<br/>
+
+**▸ Open to Collaboration**  •  **▸ Available for Freelance Projects**  •  **▸ Seeking Internship Opportunities**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+<br/><br/>
+
+Made with care by **Jusalyn Gimao**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:3B82F6&height=120&section=footer" width="100%"/>
 
 </div>
