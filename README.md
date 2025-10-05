@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E40AF&height=200&section=header&text=Jusalyn%20Gimao&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1E3A8A,50:3B82F6,100:60A5FA&height=200&section=header&text=Jusalyn%20Gimao&fontSize=70&fontColor=fff&fontAlignY=30&desc=IT%20Student%20|%20Aspiring%20Developer&descAlignY=50&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Transforming+Ideas+into+Reality;Creating+Beautiful+Web+Experiences;Clean+Design+%2B+Powerful+Functionality;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
@@ -10,7 +10,7 @@
 
 ## ▸ About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="coding cat"/>
 
 Hi! I'm **Jusalyn Gimao** — passionate about crafting exceptional web experiences and building digital solutions that make a difference.
 
@@ -151,6 +151,8 @@ Stay tuned for:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusalyngimao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jusalyngimao&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
 
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=jusalyngimao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
@@ -252,6 +254,8 @@ Made with care by **Jusalyn Gimao**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:3B82F6&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1E3A8A,50:3B82F6,100:60A5FA&height=120&section=footer" width="100%"/>
 
 </div>
