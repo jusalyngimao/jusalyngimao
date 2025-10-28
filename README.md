@@ -21,7 +21,6 @@ Hello! I'm **Jusalyn Gimao**, an IT student with a strong passion for web develo
 - ▸ Front-end development with emphasis on user experience
 - ▸ Building educational technology solutions
 - ▸ Continuous learning and skill development
-- ▸ Mission: Create platforms that empower learners
 
 ---
 
