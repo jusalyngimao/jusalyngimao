@@ -103,7 +103,7 @@ Hello! I'm **Jusalyn Gimao**, an IT student with a strong passion for web develo
 
 ### ◆ *"Building tomorrow's digital experiences, one line of code at a time."*
 
-**▸ Open to Collaboration** • **▸ Available for Freelance Projects** • **▸ Seeking Internship Opportunities**
+**▸ Open to Collaboration** 
 
 <br/>
 
