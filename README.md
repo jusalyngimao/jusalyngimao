@@ -17,10 +17,10 @@ Hello! I'm **Jusalyn Gimao**, an IT student with a strong passion for web develo
 </div>
 
 **Core Focus Areas:**
-- ▸ IT Student specializing in web development
-- ▸ Front-end development with emphasis on user experience
-- ▸ Building educational technology solutions
-- ▸ Continuous learning and skill development
+- IT Student specializing in web development
+- Front-end development with emphasis on user experience
+- Building educational technology solutions
+- Continuous learning and skill development
 
 ---
 
