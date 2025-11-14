@@ -2,7 +2,7 @@
 
 # Jusalyn Gimao
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Web+Developer;Building+Clean+Web+Experiences;Passionate+About+Technology" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=IT+Student;Building+Clean+Web+Experiences;Passionate+About+Technology" alt="Typing SVG"/>
 
 </div>
 
