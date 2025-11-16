@@ -97,10 +97,4 @@ Hello! I'm **Jusalyn Gimao**, an IT student with a strong passion for web develo
 
 ---
 
-<div align="center">
 
-### ◆ *"Building tomorrow's digital experiences, one line of code at a time."*
-
-<br/>
-
-</div>
