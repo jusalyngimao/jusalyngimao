@@ -91,8 +91,6 @@ Hello! I'm **Jusalyn Gimao**, an IT student with a strong passion for web develo
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jusalyngimao&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
