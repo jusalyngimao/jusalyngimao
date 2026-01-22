@@ -17,11 +17,7 @@
 ## About Me
 
 <div align="justify">
-
-I'm an **IT student** and aspiring **web developer** dedicated to creating meaningful digital experiences that make a difference. My passion lies in building **clean, responsive, and intuitive web applications** that blend functionality with beautiful design. 
-
-I specialize in developing **educational platforms** that empower learners and make knowledge more accessible. Whether it's crafting seamless user interfaces or architecting robust backend systems, I approach every project with attention to detail and a commitment to excellence.
-
+I am an IT student and aspiring web developer who enjoys building simple, responsive, and user-friendly web applications. I am passionate about creating educational platforms that help make learning easier and more accessible. I focus on writing clean designs and functional systems, and I always aim to improve my skills with every project.
 </div>
 
 ---
