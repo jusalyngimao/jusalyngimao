@@ -114,7 +114,7 @@ I'm always excited to collaborate on interesting projects, discuss web developme
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jusalyngimao)
 
 ### Open to:
-`Collaboration` • `Freelance Projects` • `Networking` • `Mentorship` • `Open Source Contributions`
+`Collaboration` • `Freelance Projects` • `Networking` • `Open Source Contributions`
 
 </div>
 
