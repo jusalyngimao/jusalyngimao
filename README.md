@@ -50,8 +50,6 @@ I am an IT student and aspiring web developer who enjoys building simple, respon
 
 </div>
 
-## Featured Projects
-
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
