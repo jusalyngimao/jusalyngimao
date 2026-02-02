@@ -50,15 +50,7 @@ I am an IT student and aspiring web developer who enjoys building simple, respon
 
 </div>
 
-<div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **LearnSphere** | Comprehensive educational platform with video tutorials, interactive course materials, and real-time progress tracking for self-paced learning | `Vue.js` `PostgreSQL` `Bootstrap` | Live |
-| **IntelliGrade** | AI-powered automated grading system featuring smart assessment checking, detailed performance analytics, and personalized student feedback | `JavaScript` `AI/ML` `APIs` | In Development |
-| **Personal Portfolio** | Professional showcase website highlighting projects, technical skills, and achievements with modern, responsive design | `HTML5` `CSS3` `JavaScript` | Live |
-
-</div>
 
 ### Project Highlights
 
