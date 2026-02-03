@@ -50,32 +50,6 @@ I am an IT student and aspiring web developer who enjoys building simple, respon
 
 </div>
 
-
-
-### Project Highlights
-
-<details>
-<summary><b>LearnSphere - Educational Platform</b></summary>
-
-- **Video Learning Hub**: Curated educational content with organized course structure
-- **Progress Tracking**: Real-time monitoring of learning milestones and achievements
-- **Interactive Materials**: Engaging resources designed for optimal knowledge retention
-- **Self-Paced Learning**: Flexible scheduling that adapts to individual learning styles
-
-</details>
-
-<details>
-<summary><b>IntelliGrade - AI Grading System</b></summary>
-
-- **Automated Assessment**: Intelligent checking powered by AI algorithms
-- **Performance Analytics**: Comprehensive insights into student performance patterns
-- **Instant Feedback**: Real-time results and detailed evaluation reports
-- **Educator Tools**: Streamlined grading workflow for instructors
-
-</details>
-
----
-
 ## Let's Connect
 
 <div align="center">
