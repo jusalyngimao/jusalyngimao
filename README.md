@@ -61,8 +61,6 @@ I'm always excited to collaborate on interesting projects, discuss web developme
 
 </div>
 
----
-
 <div align="center">
 
 ### Fun Fact
