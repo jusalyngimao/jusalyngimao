@@ -63,8 +63,6 @@ I'm always excited to collaborate on interesting projects, discuss web developme
 
 *"I believe the best code is the code that solves real problems and makes people's lives easier!"*
 
-<img src="https://komarev.com/ghpvc/?username=jusalyngimao&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
 **Thanks for visiting! Have a great day!**
 
 </div>
