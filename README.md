@@ -16,8 +16,6 @@
 I am an IT student and aspiring web developer who enjoys building simple, responsive, and user-friendly web applications. I am passionate about creating educational platforms that help make learning easier and more accessible. I focus on writing clean designs and functional systems, and I always aim to improve my skills with every project.
 </div>
 
-## Tech Stack
-
 <div align="center">
 
 ### Frontend Development
