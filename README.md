@@ -63,6 +63,6 @@ I'm always excited to collaborate on interesting projects, discuss web developme
 
 *"I believe the best code is the code that solves real problems and makes people's lives easier!"*
 
-**Thanks for visiting! Have a great day!**
+**Thanks for visiting!**
 
 </div>
