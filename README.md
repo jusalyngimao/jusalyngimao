@@ -61,8 +61,6 @@ I'm always excited to collaborate on interesting projects, discuss web developme
 
 <div align="center">
 
-*"I believe the best code is the code that solves real problems and makes people's lives easier!"*
-
 **Thanks for visiting!**
 
 </div>
