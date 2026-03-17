@@ -15,7 +15,7 @@
 ## About Me
 
 <div align="justify">
-I am an IT student and aspiring web developer who enjoys building simple, responsive, and user-friendly web applications. I am passionate about creating educational platforms that help make learning easier and more accessible. I focus on writing clean designs and functional systems, and I always aim to improve my skills with every project.
+I am an IT student who wants to be a web developer. I like building simple and responsive websites that are easy to use. I enjoy creating educational platforms that help people learn better. I focus on making clean designs and systems that work well, and I always try to improve my skills in every project.
 </div>
 
 <div align="center">
